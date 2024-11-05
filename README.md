@@ -20,11 +20,11 @@ _Below is the way to run this project on your device. Please star this repo firs
 1. Star this repo :)
 2. Clone the repo
    ```sh
-   git clone https://github.com/Muhthoriqas/My-Portofolio.git
+   git clone https://github.com/abdialamsyah11/abdialamsyah.git
    ```
 3. Go to project
    ```sh
-   cd My-Portofolio
+   cd abdialamsyah
    ```
 4. Open Your Text Editor
    ```sh
